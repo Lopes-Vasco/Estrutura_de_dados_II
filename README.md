@@ -14,5 +14,5 @@ Litas de Ordenação:
 
 
 <p align="center">
-	<img src="./img/sao-janu.png" alt="Projetos-Vasco" width="480" />
+	<img src="./img/sao-janu.png" alt="Estrututra_de_dados_II" width="480" />
 </p>
