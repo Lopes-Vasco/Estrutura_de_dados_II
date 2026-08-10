@@ -16,3 +16,4 @@ Litas de Ordenação:
 <p align="center">
 	<img src="./img/sao-janu.png" alt="Estrutura_de_dados_II" width="480" />
 </p>
+
